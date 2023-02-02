@@ -8,7 +8,7 @@ Where you can find me:
 - On Mastodon: <a rel="me" href="https://infosec.exchange/@Nick_Craver">@Nick_Craver@infosec.exchange</a>
 
 Things I built or help maintain:
-- [StackExchange.Redis](https://github.com/NickCraver/StackExchange.Exceptional) (Redis client for .NET)
-- [Dapper](https://github.com/DapperLib/Dapper) (datbase object mapper for .NET)
+- [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) (Redis client for .NET)
+- [Dapper](https://github.com/DapperLib/Dapper) (database object mapper for .NET)
 - [MiniProfiler](https://github.com/MiniProfiler/dotnet) (profiler for .NET)
 - [Opserver](https://github.com/opserver/Opserver) (monitoring dashboard for Redis, SQL, Elastic, etc.)
